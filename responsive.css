@@ -267,7 +267,7 @@ flex-wrap: wrap;
 }
 
 @media (min-width: 1200px) {
-  .box-xl-1 {
+  .box-xl-1 { 
     width: 5%;
   }
   .box-xl-2 {
